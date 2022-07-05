@@ -1,4 +1,4 @@
-👋 Hi, I’m Robson Müller, a Data Engineer interested in developing solutions for data processing, but also to extract value out of the data, So I am very connected to the Business or Human kind problems, and seeking to solve them using code, analysis critical thinking and creativity. 
+👋 Hi, I’m Robson Müller, a Data Engineer interested in developing solutions for data processing, but also to extract value out of the data, So I am very connected to the Business or Human kind problems, and seeking to solve them using code, analysis, critical thinking and creativity. 
 
 📚 My main interest at the moment is around deploying solutions with microservice architecture and also going deep into ML. 
 In addition I am sharpening C++, Java and Scala. 
