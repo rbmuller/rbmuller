@@ -1,8 +1,10 @@
-👋 Hi, I’m Robson Müller, a Data Engineer interested in developing solutions for data processing, but also to extract value out of the data, So I am very connected to the Business or Human kind problems, and seeking to solve them using code, analysis, critical thinking and creativity. 
+👋 Hi, I’m **Robson Müller**, a **Data Engineer** interested in developing **solutions** for **data processing**, but also to extract value out of the data, So I am very connected to the **Business or Human kind problems**, and seeking to solve them using **code, analysis, critical thinking and creativity.** 
 
-📚 My main interest at the moment are around deploying solutions with microservice architecture, Infra as Code, and Machine Learning to take value out of the available data. 
+📚 My main interest at the moment are around deploying solutions with **microservice architecture, Infra as Code, and Machine Learning** to take value out of the available data. 
 In addition I am sharpening C++ and learning Golang from a real project. 
 
-🚴Iam an assiduous practitioner of sports, especially the outdoor ones, like climbing, trekking and triathlon. I believe the practice of Endurence sports helps us develop soft skills such as mental resilience, comprehension, focus and self leadership, which can be applied in daily life. 
+In the free time I am building an open package called **DevTools** to be used by developers who seek to save operational time when developing.
+
+🚴Iam an assiduous practitioner of **sports**, especially the **outdoor** ones, like climbing, trekking and triathlon. I believe the practice of Endurence sports helps us **develop soft skills such as mental resilience, comprehension, focus and self leadership**, which can be applied in daily life. 
 
 
