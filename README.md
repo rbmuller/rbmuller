@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=00B341&vCenter=true&width=600&lines=Hey%2C+I'm+Robson+M%C3%BCller;Staff+Data+Engineer;Building+data+infrastructure+at+scale;Golang+%2B+Python+%2B+Databricks;Open+source+ML+in+Go)](https://github.com/rbmuller/datatrax)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=00B341&vCenter=true&width=600&lines=Hey%2C+I'm+Robson+Bayer+M%C3%BCller;Staff+Data+Engineer;Building+data+infrastructure+at+scale;Golang+%2B+Python+%2B+Databricks;Open+source+ML+in+Go)](https://github.com/rbmuller/datatrax)
 
 Staff Data Engineer building scalable data infrastructure for US tech companies. 8+ years architecting ETL pipelines, data platforms, and real-time processing systems — from fintech to gaming to social media at scale.
 
@@ -30,4 +30,4 @@ Climber, trekker, triathlete. Endurance sports taught me that the boring, increm
 
 **German citizen** | Based in Brazil | EST-aligned | 5 languages (EN, PT, ES, IT, DE)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbmuller&layout=compact&theme=dark&hide_border=true&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbmuller&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
