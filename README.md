@@ -11,7 +11,7 @@ Staff Data Engineer building scalable data infrastructure for US tech companies.
 ### Currently
 
 - Serving multiple US clients as a direct contractor (Golang, Databricks, Airflow, GCP/AWS)
-- Building [**Bonavia**](https://github.com/thebigdatacomp/bonavia) — crowdsourced road quality mapping platform for Brazilian roads (React + Flask + React Native)
+- Building [**Bonavia**](https://bonavia.app) — crowdsourced road quality mapping platform for Brazilian roads (React + Flask + React Native)
 - Applying to **Georgia Tech OMSCS** — MS in Computer Science (AI + Distributed Systems + Robotics)
 
 ### Open Source
