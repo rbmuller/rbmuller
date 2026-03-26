@@ -1,10 +1,33 @@
-👋 Hi, I’m **Robson Müller**, a **Data Engineer** interested in developing **solutions** for **data processing**, but also to extract value out of the data, So I am very connected to the **Business or Human kind problems**, and seeking to solve them using **code, analysis, critical thinking and creativity.** 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=00B341&vCenter=true&width=600&lines=Hey%2C+I'm+Robson+M%C3%BCller;Staff+Data+Engineer;Building+data+infrastructure+at+scale;Golang+%2B+Python+%2B+Databricks;Open+source+ML+in+Go)](https://github.com/rbmuller/datatrax)
 
-📚 My main interest at the moment are around deploying solutions with **microservice architecture, Infra as Code, and Machine Learning** to take value out of the available data. 
-In addition I am sharpening C++ and learning Golang from a real project. 
+Staff Data Engineer building scalable data infrastructure for US tech companies. 8+ years architecting ETL pipelines, data platforms, and real-time processing systems — from fintech to gaming to social media at scale.
 
-⚙️ In the free time I am building an open package called **devTools** to be used by developers who seek to save operational time when developing.
+### What I do
 
-🚴Iam an assiduous practitioner of **sports**, especially the **outdoor** ones, like climbing, trekking and triathlon. I believe the practice of Endurence sports helps us **develop soft skills such as mental resilience, comprehension, focus and self leadership**, which can be applied in daily life. 
+- **Data Platforms** — end-to-end: ingestion, transformation, warehousing, analytics. Databricks, Airflow, BigQuery, dbt, Cloud Composer.
+- **Backend Engineering** — high-performance services in **Golang** and **Python** processing 500k+ records/day.
+- **Machine Learning** — built [**datatrax**](https://github.com/rbmuller/datatrax), an open-source ML toolkit in pure Go with 7 classic algorithms. Listed on [awesome-go](https://github.com/avelino/awesome-go).
 
+### Currently
 
+- Serving multiple US clients as a direct contractor (Golang, Databricks, Airflow, GCP/AWS)
+- Building [**Bonavia**](https://github.com/thebigdatacomp/bonavia) — crowdsourced road quality mapping platform for Brazilian roads (React + Flask + React Native)
+- Applying to **Georgia Tech OMSCS** — MS in Computer Science (AI + Distributed Systems + Robotics)
+
+### Open Source
+
+[![Datatrax](https://img.shields.io/badge/datatrax-awesome--go-blue?logo=go)](https://github.com/rbmuller/datatrax) — Data engineering & ML toolkit for Go. Zero dependencies, 7 ML algorithms, generics-first.
+
+### Stack
+
+`Golang` `Python` `Databricks` `Airflow` `BigQuery` `dbt` `PySpark` `Cloud Composer` `Airbyte` `Superset` `PostgreSQL` `React` `TypeScript` `AWS` `GCP` `Azure`
+
+### Beyond code
+
+Climber, trekker, triathlete. Endurance sports taught me that the boring, incremental approach is slower to start — but it actually finishes.
+
+---
+
+**German citizen** | Based in Brazil | EST-aligned | 5 languages (EN, PT, ES, IT, DE)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbmuller&layout=compact&theme=dark&hide_border=true&langs_count=8)
