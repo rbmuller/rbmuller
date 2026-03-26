@@ -29,5 +29,3 @@ Climber, trekker, triathlete. Endurance sports taught me that the boring, increm
 ---
 
 **German citizen** | Based in Brazil | EST-aligned | 5 languages (EN, PT, ES, IT, DE)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbmuller&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
