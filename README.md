@@ -18,6 +18,8 @@ Staff Data Engineer building scalable data infrastructure for US tech companies.
 
 [![Datatrax](https://img.shields.io/badge/datatrax-awesome--go-blue?logo=go)](https://github.com/rbmuller/datatrax) — Data engineering & ML toolkit for Go. Zero dependencies, 7 ML algorithms, generics-first.
 
+[![Scherlok](https://img.shields.io/badge/scherlok-data--quality-green?logo=python)](https://github.com/rbmuller/scherlok) — Zero-config data quality monitoring. Connect, profile, detect anomalies — 3 commands, no YAML.
+
 ### Stack
 
 `Golang` `Python` `Databricks` `Airflow` `BigQuery` `dbt` `PySpark` `Cloud Composer` `Airbyte` `Superset` `PostgreSQL` `React` `TypeScript` `AWS` `GCP` `Azure`
