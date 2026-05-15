@@ -1,0 +1,14 @@
+{
+  "name": "rbmuller-profile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Build script for the hand-drawn ETL diagram on the profile README.",
+  "type": "module",
+  "scripts": {
+    "build": "node build-diagram.mjs"
+  },
+  "dependencies": {
+    "jsdom": "^29.1.1",
+    "roughjs": "^4.6.6"
+  }
+}
