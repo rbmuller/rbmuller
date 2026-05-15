@@ -4,6 +4,32 @@ Staff Data Engineer building scalable data infrastructure for US tech companies.
 
 ### What I do
 
+```mermaid
+---
+config:
+  look: handDrawn
+  theme: neutral
+---
+flowchart LR
+    S[("Sources<br/>APIs · DBs · Events")]
+    I["Ingest<br/>Go · Python<br/>500k+ rec/day"]
+    R["Raw<br/>Databricks · BigQuery"]
+    T["Transform<br/>dbt · PySpark"]
+    W[("Warehouse<br/>BigQuery · Databricks")]
+    A["Analytics<br/>Superset · dashboards"]
+    M["ML<br/>datatrax (Go)<br/>7 algorithms"]
+
+    S --> I --> R --> T --> W
+    W --> A
+    W --> M
+
+    O(("Airflow ·<br/>Cloud Composer")):::orch
+    O -.orchestrates.-> I
+    O -.orchestrates.-> T
+
+    classDef orch fill:#fff7d6,stroke:#aa8800,stroke-dasharray: 4 2
+```
+
 - **Data Platforms** — end-to-end: ingestion, transformation, warehousing, analytics. Databricks, Airflow, BigQuery, dbt, Cloud Composer.
 - **Backend Engineering** — high-performance services in **Golang** and **Python** processing 500k+ records/day.
 - **Machine Learning** — built [**datatrax**](https://github.com/rbmuller/datatrax), an open-source ML toolkit in pure Go with 7 classic algorithms. Listed on [awesome-go](https://github.com/avelino/awesome-go).
