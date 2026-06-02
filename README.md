@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=00B341&vCenter=true&width=600&lines=Hey%2C+I'm+Robson+Bayer+M%C3%BCller;Staff+Data+Engineer;Building+data+infrastructure+at+scale;Golang+%2B+Python+%2B+Databricks;Open+source+ML+in+Go)](https://github.com/rbmuller/datatrax)
 
-Staff Data Engineer building scalable data infrastructure for US tech companies. 8+ years architecting ETL pipelines, data platforms, and real-time processing systems — from fintech to gaming to social media at scale.
+Data Engineer building scalable data infrastructure for US tech companies. 8+ years architecting ETL pipelines, data platforms, and real-time processing systems — from fintech to gaming to social media at scale.
 
 ### What I do
 
@@ -12,7 +12,6 @@ Staff Data Engineer building scalable data infrastructure for US tech companies.
 
 ### Currently
 
-- Serving multiple US clients as a direct contractor (Golang, Databricks, Airflow, GCP/AWS)
 - Building [**Bonavia**](https://bonavia.app) — crowdsourced road quality mapping platform for Brazilian roads (React + Flask + React Native)
 - Applying to **Georgia Tech OMSCS** — MS in Computer Science (AI + Distributed Systems + Robotics)
 
