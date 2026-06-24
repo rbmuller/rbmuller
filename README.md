@@ -6,30 +6,22 @@ Data Engineer building scalable data infrastructure for US tech companies. 8+ ye
 
 ```mermaid
 flowchart LR
-    R(("What<br/>I do"))
+    S["🗄️ Sources<br/>APIs · DBs · streams"] --> P["⚙️ Ingest → Transform<br/>Airflow · dbt · Go/Python"]
+    P --> W["📦 Warehouse<br/>Databricks · BigQuery"]
+    W --> A["📊 Analytics"]
+    W --> M["🤖 ML · datatrax"]
+    A --> C(("Clients"))
+    M --> C
 
-    R --> DP["🗄️ Data Platforms"]
-    R --> BE["⚙️ Backend Engineering"]
-    R --> ML["🤖 Machine Learning"]
+    click M "https://github.com/rbmuller/datatrax" _blank
 
-    DP --> DP1["Ingestion → transform →<br/>warehouse → analytics"]
-    DP --> DP2["Databricks · Airflow<br/>BigQuery · dbt · Composer"]
+    classDef stage fill:#161b22,stroke:#30363d,color:#c9d1d9
+    classDef proc fill:#0d1117,stroke:#00B341,stroke-width:2px,color:#00B341,font-weight:bold
+    classDef clients fill:#00B341,stroke:#00B341,color:#ffffff,font-weight:bold
 
-    BE --> BE1["High-performance services<br/>500k+ records/day"]
-    BE --> BE2["Golang · Python"]
-
-    ML --> ML1["datatrax — pure-Go ML toolkit"]
-    ML --> ML2["7 algorithms · generics-first<br/>★ listed on awesome-go"]
-
-    click ML1 "https://github.com/rbmuller/datatrax" _blank
-
-    classDef root fill:#00B341,stroke:#00B341,color:#ffffff,font-weight:bold
-    classDef cat fill:#0d1117,stroke:#00B341,stroke-width:2px,color:#00B341,font-weight:bold
-    classDef leaf fill:#161b22,stroke:#30363d,color:#c9d1d9
-
-    class R root
-    class DP,BE,ML cat
-    class DP1,DP2,BE1,BE2,ML1,ML2 leaf
+    class S,A,M stage
+    class P,W proc
+    class C clients
 ```
 
 ### Currently
