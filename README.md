@@ -4,11 +4,33 @@ Data Engineer building scalable data infrastructure for US tech companies. 8+ ye
 
 ### What I do
 
-<img src="etl-diagram.svg" width="100%" alt="ETL pipeline: Sources to Ingest to Raw to Transform to Warehouse, branching into Analytics and ML, orchestrated by Airflow / Cloud Composer">
+```mermaid
+flowchart LR
+    R(("What<br/>I do"))
 
-- **Data Platforms** — end-to-end: ingestion, transformation, warehousing, analytics. Databricks, Airflow, BigQuery, dbt, Cloud Composer.
-- **Backend Engineering** — high-performance services in **Golang** and **Python** processing 500k+ records/day.
-- **Machine Learning** — built [**datatrax**](https://github.com/rbmuller/datatrax), an open-source ML toolkit in pure Go with 7 classic algorithms. Listed on [awesome-go](https://github.com/avelino/awesome-go).
+    R --> DP["🗄️ Data Platforms"]
+    R --> BE["⚙️ Backend Engineering"]
+    R --> ML["🤖 Machine Learning"]
+
+    DP --> DP1["Ingestion → transform →<br/>warehouse → analytics"]
+    DP --> DP2["Databricks · Airflow<br/>BigQuery · dbt · Composer"]
+
+    BE --> BE1["High-performance services<br/>500k+ records/day"]
+    BE --> BE2["Golang · Python"]
+
+    ML --> ML1["datatrax — pure-Go ML toolkit"]
+    ML --> ML2["7 algorithms · generics-first<br/>★ listed on awesome-go"]
+
+    click ML1 "https://github.com/rbmuller/datatrax" _blank
+
+    classDef root fill:#00B341,stroke:#00B341,color:#ffffff,font-weight:bold
+    classDef cat fill:#0d1117,stroke:#00B341,stroke-width:2px,color:#00B341,font-weight:bold
+    classDef leaf fill:#161b22,stroke:#30363d,color:#c9d1d9
+
+    class R root
+    class DP,BE,ML cat
+    class DP1,DP2,BE1,BE2,ML1,ML2 leaf
+```
 
 ### Currently
 
