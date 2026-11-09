@@ -41,8 +41,8 @@ flowchart LR
 
 ### Beyond code
 
-Climber, trekker, triathlete. Endurance sports taught me that the boring, incremental approach is slower to start — but it actually finishes.
+Climber, trekker, triathlete. Endurance sports taught me that the boring, incremental approach is slower to start, but it actually finishes.
 
 ---
 
-**German citizen** | Based in Brazil | EST-aligned | 5 languages (EN, PT, ES, IT, DE)
+**Brazilian - German citizen** | Based in Brazil | EST-aligned | 5 languages (EN, PT, ES, IT, DE)
